@@ -7,7 +7,6 @@ public class Main {
         a = in.nextLine();
         System.out.println("Enter second string: ");
         b = in.nextLine();
-        System.out.println(a);
-        System.out.println(b);
+        System.out.println(a + "\n" + b);
     }
 }
