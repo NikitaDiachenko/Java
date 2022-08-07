@@ -7,9 +7,7 @@ public class Main {
             }
             else if (arr[i] % 2 != 0){
                 System.out.println(arr[i]*10);
-
             }
         }
-
     }
 }
