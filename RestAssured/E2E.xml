@@ -1,0 +1,8 @@
+<suite name = "Regression">
+    <test name = "test" preserve-order = "true">
+        <classes>
+            <class name = "E2EUsers.E2EUsers"/>
+        </classes>
+    </test>
+
+</suite>
